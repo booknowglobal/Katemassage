@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**bookon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**book.now.** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
